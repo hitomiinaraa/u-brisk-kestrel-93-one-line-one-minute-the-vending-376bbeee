@@ -1,3 +1,4 @@
+// A smile outranks spare coins at this machine.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry =
